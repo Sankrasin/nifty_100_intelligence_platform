@@ -1,0 +1,406 @@
+dataset,rule,company_id,year,issue
+profitandloss,DQ005,ADANIENSOL,2014-03,sales <= 0
+profitandloss,DQ002,ULTRACEMCO,2013-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2014-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2015-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2016-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2017-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2018-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2019-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2020-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2021-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2022-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2023-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,2024-03,company not found in companies
+profitandloss,DQ002,ULTRACEMCO,TTM,company not found in companies
+profitandloss,DQ002,UNIONBANK,2013-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2014-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2015-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2016-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2017-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2018-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2019-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2020-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2021-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2022-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2023-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,2024-03,company not found in companies
+profitandloss,DQ002,UNIONBANK,TTM,company not found in companies
+profitandloss,DQ002,UNITDSPR,2013-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2014-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2015-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2016-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2017-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2018-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2019-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2020-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2021-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2022-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2023-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,2024-03,company not found in companies
+profitandloss,DQ002,UNITDSPR,TTM,company not found in companies
+profitandloss,DQ002,VBL,2012-12,company not found in companies
+profitandloss,DQ002,VBL,2013-12,company not found in companies
+profitandloss,DQ002,VBL,2014-12,company not found in companies
+profitandloss,DQ002,VBL,2015-12,company not found in companies
+profitandloss,DQ002,VBL,2016-12,company not found in companies
+profitandloss,DQ002,VBL,2017-12,company not found in companies
+profitandloss,DQ002,VBL,2018-12,company not found in companies
+profitandloss,DQ002,VBL,2019-12,company not found in companies
+profitandloss,DQ002,VBL,2020-12,company not found in companies
+profitandloss,DQ002,VBL,2021-12,company not found in companies
+profitandloss,DQ002,VBL,2022-12,company not found in companies
+profitandloss,DQ002,VBL,2023-12,company not found in companies
+profitandloss,DQ002,VBL,TTM,company not found in companies
+profitandloss,DQ002,VEDL,2013-03,company not found in companies
+profitandloss,DQ002,VEDL,2014-03,company not found in companies
+profitandloss,DQ002,VEDL,2015-03,company not found in companies
+profitandloss,DQ002,VEDL,2016-03,company not found in companies
+profitandloss,DQ002,VEDL,2017-03,company not found in companies
+profitandloss,DQ002,VEDL,2018-03,company not found in companies
+profitandloss,DQ002,VEDL,2019-03,company not found in companies
+profitandloss,DQ002,VEDL,2020-03,company not found in companies
+profitandloss,DQ002,VEDL,2021-03,company not found in companies
+profitandloss,DQ002,VEDL,2022-03,company not found in companies
+profitandloss,DQ002,VEDL,2023-03,company not found in companies
+profitandloss,DQ002,VEDL,2024-03,company not found in companies
+profitandloss,DQ002,VEDL,TTM,company not found in companies
+profitandloss,DQ002,WIPRO,2013-03,company not found in companies
+profitandloss,DQ002,WIPRO,2014-03,company not found in companies
+profitandloss,DQ002,WIPRO,2015-03,company not found in companies
+profitandloss,DQ002,WIPRO,2016-03,company not found in companies
+profitandloss,DQ002,WIPRO,2017-03,company not found in companies
+profitandloss,DQ002,WIPRO,2018-03,company not found in companies
+profitandloss,DQ002,WIPRO,2019-03,company not found in companies
+profitandloss,DQ002,WIPRO,2020-03,company not found in companies
+profitandloss,DQ002,WIPRO,2021-03,company not found in companies
+profitandloss,DQ002,WIPRO,2022-03,company not found in companies
+profitandloss,DQ002,WIPRO,2023-03,company not found in companies
+profitandloss,DQ002,WIPRO,2024-03,company not found in companies
+profitandloss,DQ002,WIPRO,TTM,company not found in companies
+profitandloss,DQ002,ZOMATO,2018-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2019-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2020-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2021-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2022-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2023-03,company not found in companies
+profitandloss,DQ002,ZOMATO,2024-03,company not found in companies
+profitandloss,DQ002,ZOMATO,TTM,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2013-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2014-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2015-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2016-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2017-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2018-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2019-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2020-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2021-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2022-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2023-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,2024-03,company not found in companies
+profitandloss,DQ002,ZYDUSLIFE,TTM,company not found in companies
+profitandloss,DQ004,ADANIPORTS,2013-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2014-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2015-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2016-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2017-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2018-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2019-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2020-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2021-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2022-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2023-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2024-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,TTM,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2013-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2014-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2015-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2016-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2017-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2018-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2019-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2020-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2021-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2022-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2023-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,2024-03,duplicate company-year
+profitandloss,DQ004,ADANIPORTS,TTM,duplicate company-year
+profitandloss,DQ007,AXISBANK,2013-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2014-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2015-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2016-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2017-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2018-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2019-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2020-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2021-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2022-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2023-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,2024-03,operating profit mismatch
+profitandloss,DQ007,AXISBANK,TTM,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2015-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2016-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2017-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2018-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2019-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2020-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2021-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2022-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2023-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,2024-03,operating profit mismatch
+profitandloss,DQ007,BAJFINANCE,TTM,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2013-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2014-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2015-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2016-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2017-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2018-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2019-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2020-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2021-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2022-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2023-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,2024-03,operating profit mismatch
+profitandloss,DQ007,BANKBARODA,TTM,operating profit mismatch
+profitandloss,DQ007,CANBK,2013-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2014-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2015-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2016-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2017-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2018-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2019-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2020-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2021-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2022-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2023-03,operating profit mismatch
+profitandloss,DQ007,CANBK,2024-03,operating profit mismatch
+profitandloss,DQ007,CANBK,TTM,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2013-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2014-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2015-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2016-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2017-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2018-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2019-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2020-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2021-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2022-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2023-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,2024-03,operating profit mismatch
+profitandloss,DQ007,CHOLAFIN,TTM,operating profit mismatch
+profitandloss,DQ007,CIPLA,2013-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2014-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2015-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2016-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2017-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2018-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2019-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2020-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2021-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2022-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2023-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,2024-03,operating profit mismatch
+profitandloss,DQ007,CIPLA,TTM,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2013-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2014-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2015-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2016-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2017-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2018-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2019-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2020-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2021-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2022-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2023-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,2024-03,operating profit mismatch
+profitandloss,DQ007,COALINDIA,TTM,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2013-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2014-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2015-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2016-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2017-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2018-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2019-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2020-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2021-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2022-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2023-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,2024-03,operating profit mismatch
+profitandloss,DQ007,HDFCBANK,TTM,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2013-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2014-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2015-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2016-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2017-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2018-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2019-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2020-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2021-03,operating profit mismatch
+profitandloss,DQ007,HDFCLIFE,2022-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2014-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2015-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2016-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2017-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2018-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2019-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2020-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2021-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2022-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2023-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,2024-03,operating profit mismatch
+profitandloss,DQ007,HEROMOTOCO,TTM,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2013-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2014-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2015-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2016-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2017-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2018-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2019-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2020-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2021-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2022-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2023-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,2024-03,operating profit mismatch
+profitandloss,DQ007,HINDALCO,TTM,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2013-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2014-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2015-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2016-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2017-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2018-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2019-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2020-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2021-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2022-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2023-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,2024-03,operating profit mismatch
+profitandloss,DQ007,HINDUNILVR,TTM,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2013-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2014-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2015-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2016-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2017-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2018-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2019-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2020-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2021-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2022-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2023-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,2024-03,operating profit mismatch
+profitandloss,DQ007,ICICIBANK,TTM,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2013-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2014-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2015-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2016-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2017-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2018-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2019-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2020-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2021-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2022-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2023-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,2024-03,operating profit mismatch
+profitandloss,DQ007,ICICIGI,TTM,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2013-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2014-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2015-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2016-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2017-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2018-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2019-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2020-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2022-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2023-03,operating profit mismatch
+profitandloss,DQ007,ICICIPRULI,2024-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2013-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2014-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2015-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2016-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2017-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2018-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2019-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2020-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2021-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2022-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2023-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,2024-03,operating profit mismatch
+profitandloss,DQ007,INDUSINDBK,TTM,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2013-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2014-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2015-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2016-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2017-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2018-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2019-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2020-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2021-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2022-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2023-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,2024-03,operating profit mismatch
+profitandloss,DQ007,KOTAKBANK,TTM,operating profit mismatch
+profitandloss,DQ007,PFC,2013-03,operating profit mismatch
+profitandloss,DQ007,PFC,2014-03,operating profit mismatch
+profitandloss,DQ007,PFC,2015-03,operating profit mismatch
+profitandloss,DQ007,PFC,2016-03,operating profit mismatch
+profitandloss,DQ007,PFC,2017-03,operating profit mismatch
+profitandloss,DQ007,PFC,2018-03,operating profit mismatch
+profitandloss,DQ007,PFC,2019-03,operating profit mismatch
+profitandloss,DQ007,PFC,2020-03,operating profit mismatch
+profitandloss,DQ007,PFC,2021-03,operating profit mismatch
+profitandloss,DQ007,PFC,2022-03,operating profit mismatch
+profitandloss,DQ007,PFC,2023-03,operating profit mismatch
+profitandloss,DQ007,PFC,2024-03,operating profit mismatch
+profitandloss,DQ007,PFC,TTM,operating profit mismatch
+profitandloss,DQ007,SBIN,2013-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2014-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2015-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2016-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2017-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2018-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2019-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2020-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2021-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2022-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2023-03,operating profit mismatch
+profitandloss,DQ007,SBIN,2024-03,operating profit mismatch
+profitandloss,DQ007,SBIN,TTM,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2013-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2014-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2015-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2016-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2017-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2018-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2019-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2020-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2021-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2022-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2023-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,2024-03,operating profit mismatch
+profitandloss,DQ007,SHRIRAMFIN,TTM,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2013-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2014-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2015-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2016-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2017-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2018-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2019-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2020-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2021-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2022-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2023-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,2024-03,operating profit mismatch
+profitandloss,DQ007,UNIONBANK,TTM,operating profit mismatch
+profitandloss,DQ007,INDIGO,2013-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2014-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2015-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2016-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2017-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2018-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2019-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2020-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2021-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2022-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2023-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,2024-03,operating profit mismatch
+profitandloss,DQ007,INDIGO,TTM,operating profit mismatch
+cashflow,DQ008,TVSMOTOR,2022-03,cashflow mismatch
