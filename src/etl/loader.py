@@ -77,6 +77,10 @@ def load_core_excel(file_name):
         file_path,
         header=1
     )
+    if "id" in df.columns:
+        df["id"] = df["id"].apply(
+            normalize_ticker
+        )
 
     if "company_id" in df.columns:
         df["company_id"] = (
