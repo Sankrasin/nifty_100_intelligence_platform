@@ -187,3 +187,169 @@ def return_on_assets(
         return None
 
     return (net_profit / total_assets) * 100
+
+def debt_to_equity(
+    borrowings: float,
+    equity_capital: float,
+    reserves: float
+) -> Optional[float]:
+    """
+    Debt-to-Equity Ratio
+
+    Formula
+
+        Borrowings /
+        (Equity Capital + Reserves)
+
+    Rules
+
+    • Return 0 if borrowings == 0
+    • Return None if denominator <= 0
+    """
+
+    if borrowings == 0:
+        return 0
+
+    denominator = equity_capital + reserves
+
+    if denominator <= 0:
+        return None
+
+    return borrowings / denominator
+
+
+def high_leverage_flag(
+    debt_to_equity_ratio: Optional[float],
+    broad_sector: str | None = None
+) -> bool:
+    """
+    High leverage flag.
+
+    True only when
+
+    • D/E > 5
+    • Company is NOT Financials
+    """
+
+    if debt_to_equity_ratio is None:
+        return False
+
+    if (
+        broad_sector is not None
+        and broad_sector.strip().lower()
+        == "financials"
+    ):
+        return False
+
+    return debt_to_equity_ratio > 5
+
+def interest_coverage_ratio(
+    operating_profit: float,
+    other_income: float,
+    interest: float
+) -> Optional[float]:
+    """
+    Interest Coverage Ratio (ICR)
+
+    Formula
+
+        (Operating Profit + Other Income)
+        /
+        Interest
+
+    Returns
+    -------
+    None
+        If interest == 0
+    """
+
+    if interest == 0:
+        return None
+
+    ebit = operating_profit + other_income
+
+    return ebit / interest
+
+
+def interest_coverage_label(
+    icr: Optional[float]
+) -> str:
+    """
+    Display label for Interest Coverage Ratio.
+
+    Returns
+    -------
+    "Debt Free"
+        If ICR is None
+
+    ""
+
+        Otherwise
+    """
+
+    if icr is None:
+        return "Debt Free"
+
+    return ""
+
+
+def interest_coverage_warning(
+    icr: Optional[float]
+) -> bool:
+    """
+    Returns True if the company is at risk of
+    not covering interest payments.
+
+    Rule
+
+        ICR < 1.5
+    """
+
+    if icr is None:
+        return False
+
+    return icr < 1.5
+
+
+def net_debt(
+    borrowings: float,
+    investments: float
+) -> float:
+    """
+    Net Debt
+
+    Formula
+
+        Borrowings - Investments
+
+    Investments are treated as a proxy
+    for liquid assets.
+    """
+
+    return borrowings - investments
+
+
+def asset_turnover(
+    sales: float,
+    total_assets: float
+) -> Optional[float]:
+    """
+    Asset Turnover Ratio
+
+    Formula
+
+        Sales /
+        Total Assets
+
+    Returns
+    -------
+    None
+        If total_assets == 0
+    """
+
+    if total_assets == 0:
+        return None
+
+    return sales / total_assets
+
+

@@ -6,6 +6,13 @@ from src.analytics.ratios import (
     return_on_equity,
     return_on_capital_employed,
     return_on_assets,
+    debt_to_equity,
+    high_leverage_flag,
+    interest_coverage_ratio,
+    interest_coverage_label,
+    interest_coverage_warning,
+    net_debt,
+    asset_turnover,
 )
 
 
@@ -95,4 +102,84 @@ def test_return_on_capital_employed_zero_denominator():
             borrowings=0,
         )
         is None
+    )
+
+# -------------------------------------------------
+# DAY 9 TESTS
+# -------------------------------------------------
+
+def test_debt_to_equity_debt_free():
+    assert debt_to_equity(
+        borrowings=0,
+        equity_capital=500,
+        reserves=500,
+    ) == 0
+
+
+def test_debt_to_equity_normal():
+    assert debt_to_equity(
+        borrowings=500,
+        equity_capital=250,
+        reserves=250,
+    ) == 1.0
+
+
+def test_high_leverage_flag():
+    ratio = debt_to_equity(
+        borrowings=6000,
+        equity_capital=500,
+        reserves=500,
+    )
+
+    assert high_leverage_flag(
+        ratio,
+        "Industrials",
+    ) is True
+
+
+def test_interest_coverage_ratio_zero_interest():
+    assert (
+        interest_coverage_ratio(
+            operating_profit=500,
+            other_income=100,
+            interest=0,
+        )
+        is None
+    )
+
+
+def test_interest_coverage_label():
+    assert (
+        interest_coverage_label(None)
+        == "Debt Free"
+    )
+
+
+def test_interest_coverage_warning():
+    icr = interest_coverage_ratio(
+        operating_profit=100,
+        other_income=0,
+        interest=100,
+    )
+
+    assert interest_coverage_warning(icr) is True
+
+
+def test_net_debt():
+    assert (
+        net_debt(
+            borrowings=1200,
+            investments=300,
+        )
+        == 900
+    )
+
+
+def test_asset_turnover():
+    assert (
+        asset_turnover(
+            sales=1000,
+            total_assets=500,
+        )
+        == 2.0
     )
